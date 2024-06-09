@@ -1,0 +1,76 @@
+ID,Study,country,ave_est,ave_se,av_var
+1,Howe and Linaweaver (1967),USA,0.26,0.17,0.0289
+2,Morgan (1973),USA,0.39,0.13,0.0169
+3,Danielson (1979),USA,0.71,0.02,0.0004
+4,Jones and Morris (1984),USA,0.15,0.07,0.0049
+5,Moncur (1987),USA,0.49,0.02,0.0004
+6,Rizaiza (1991),Saudi Arabia,0.56,0.05,0.0025
+7,Schneider and Whitlatch (1991),USA,0.42,0.12,0.0144
+8,Lyman (1992),USA,0.53,0.18,0.0324
+9,Nieswiadomy (1992),USA,0.37,0.36,0.1296
+10,Nieswiadomy and Cobb (1993),USA,0.1,0.6,0.36
+11,Hewitt and Hanemann (1995),USA,0.12,0.06,0.0036
+12,Barkatullah (1996),Australia,0.42,0.03,0.0009
+13,Dandy et al. (1997),Australia,0.28,0.12,0.0144
+14,Saleth and Dinar (1997),India,0.19,0.05,0.0025
+15,David and Inocencio (1998),Philippines,0.38,0.22,0.0484
+16,Goodman (1999),USA,0.24,0.04,0.0016
+17,Hoglund (1999),Sweden,0.09,0.07,0.0049
+18,Hewitt (2000),USA,0.77,0.91,0.8281
+19,Nauges and Thomas (2000),France,0.09,0.11,0.0121
+20,Gunatilake et al. (2001),Sri Lanka,0.38,0.04,0.0016
+21,Acharya and Barbier (2002),Nigeria,0.6,0.07,0.0049
+22,Agthe and Billings (2002),USA,0.81,0.1,0.01
+23,Martinez-espineira (2002),Spain,-0.25,0.15,0.0225
+24,Nauges and Blundell (2002),Cyprus,0.02,0.004,0.000016
+25,Olmstead et al. (2003),USA and Canada,0.52,0.03,0.0009
+26,Arbues  et al. (2004),Spain,0.81,0.41,0.1681
+27,Campbell et al. (2004),USA,0.35,0.07,0.0049
+28,Garcia and Reynaud (2004),France,0.06,0.03,0.0009
+29,Mylopoulos et al. (2004),Greece,0.16,0.01,0.0001
+30,Carter and Milon (2005),USA,0.28,0.05,0.0025
+31,Kavezeri-Karuaihe et al. (2005),Namibia,0.16,0.12,0.0144
+32,Strand and Walker (2005),Central American Countries,0.06,0.01,0.0001
+33,Arbues and Villanua (2006),Spain,0.48,0.24,0.0576
+34,Domene and Sauri (2006),Spain,0.26,0.08,0.0064
+35,Gaudin (2006),USA,0.29,0.07,0.0049
+36,Hoffman et al. (2006),Australia,0.28,0.08,0.0064
+37,Jansen and Schulz (2006),South Africa,0.55,0.07,0.0049
+38,Mazzanti and Montini (2006),Italy,0.01,0.02,0.0004
+39,Dahan and Nisan (2007),Israel,0.62,0.16,0.0256
+40,Martins and Fortunato (2007),Portugal,0.43,0.17,0.0289
+41,Musolesi and Nosvelli (2007),Italy,0.44,0.3,0.09
+42,Olmstead et al. (2007),USA & Canada,0.56,0.04,0.0016
+43,Basani et al. (2008),Cambodia,0.06,0.01,0.0001
+44,Cheesman et al. (2008),Vietnam,0.35,0.13,0.0169
+45,Salman et al. (2008),Jordan,0.45,0.01,0.0001
+46,Xayavong et al. (2008),Australia,0.55,0.1,0.01
+47,Bartczak et al. (2009),Poland,0.59,0.25,0.0625
+48,Grafton et al. (2009),Global,0.33,0.05,0.0025
+49,Nauges and Berg (2009),Sri Lanka,0.27,0.2,0.04
+50,Olmstead (2009),USA & Canada,0.45,0.06,0.0036
+51,Schleich and Hillenbrand (2009),Germany,0.41,0.18,0.0324
+52,Statzu and Strazzera (2009),Italy,0.78,0.14,0.0196
+53,Polebitski and Palmer (2010),USA,0.43,0.31,0.0961
+54,Dharmaratna and Parasnis (2011),Sri Lanka,0.41,0.22,0.0484
+55,Madhoo (2011),Mauritius,1.29,0.72,0.5184
+56,Miyawaki et al. (2011),Japan,0.17,0.09,0.0081
+57,Dharmaratna and Harris (2012),Sri Lanka,0.34,0.16,0.0256
+58,Fenrick and Getachew (2012),USA,1.38,0.24,0.0576
+59,Kashian et al. (2012),USA,0.19,0.01,0.0001
+60,Mansur and Olmstead (2012),USA and Canada,0.29,0.03,0.0009
+61,Tabieh et al. (2012),Jordan,0.02,0.01,0.0001
+62,Sebri (2013),Tunisia,0.42,0.05,0.0025
+63,Binet et al. (2014),France,0.46,0.07,0.0049
+64,Coulibaly et al. (2014),Jordan,0.58,0.24,0.0576
+65,Galaitsi et al. (2015),Palestine,0.68,0.08,0.0064
+66,Perez-Urdiales et al. (2016),Spain,0.27,0.04,0.0016
+87,Reynaud et al. (2016),Serbia,0.88,0.89,0.7921
+68,Hung and Chie (2017),Taiwan,1.2,0.03,0.0009
+69,Kotagama et al. (2017),Oman,0.06,0.02,0.0004
+70,Lavin et al. (2017),Colombia,0.04,0.001,0.000001
+71,Fercovic et al. (2019),Chile,0.55,0.22,0.0484
+72,Schleich and Hillenbrand (2019),Germany,0.95,0.07,0.0049
+73,Arevalo et al (2021),Chile,0.22,0.02,0.0004
+74,Palanca-Tan (2020),Philippines,0.36,0.15,0.0225
+75,Scasny and Smutna (2021),Czech,0.45,0.01,0.0001
